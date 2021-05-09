@@ -1,2 +1,0 @@
-(this.webpackJsonpsliders=this.webpackJsonpsliders||[]).push([[0],{9:function(e,s,t){"use strict";t.r(s);t(1);var n=t(3),r=t.n(n),c=t(0);var i=function(){return Object(c.jsx)("div",{className:"App",children:"MyAPP"})};r.a.render(Object(c.jsx)(i,{}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.f69c0a71.chunk.js.map
