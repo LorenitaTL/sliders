@@ -1,23 +1,20 @@
 {
   "files": {
-    "main.css": "/lorenitatl.github.io/sliders/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/lorenitatl.github.io/sliders/static/js/main.78c7e86c.chunk.js",
-    "main.js.map": "/lorenitatl.github.io/sliders/static/js/main.78c7e86c.chunk.js.map",
-    "runtime-main.js": "/lorenitatl.github.io/sliders/static/js/runtime-main.591a6a60.js",
-    "runtime-main.js.map": "/lorenitatl.github.io/sliders/static/js/runtime-main.591a6a60.js.map",
-    "static/js/2.f255881a.chunk.js": "/lorenitatl.github.io/sliders/static/js/2.f255881a.chunk.js",
-    "static/js/2.f255881a.chunk.js.map": "/lorenitatl.github.io/sliders/static/js/2.f255881a.chunk.js.map",
-    "static/js/3.f9dc027e.chunk.js": "/lorenitatl.github.io/sliders/static/js/3.f9dc027e.chunk.js",
-    "static/js/3.f9dc027e.chunk.js.map": "/lorenitatl.github.io/sliders/static/js/3.f9dc027e.chunk.js.map",
+    "main.css": "/lorenitatl.github.io/sliders/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/lorenitatl.github.io/sliders/static/js/main.8b2fda0a.chunk.js",
+    "main.js.map": "/lorenitatl.github.io/sliders/static/js/main.8b2fda0a.chunk.js.map",
+    "runtime-main.js": "/lorenitatl.github.io/sliders/static/js/runtime-main.ae3cd21f.js",
+    "runtime-main.js.map": "/lorenitatl.github.io/sliders/static/js/runtime-main.ae3cd21f.js.map",
+    "static/js/2.2549cb59.chunk.js": "/lorenitatl.github.io/sliders/static/js/2.2549cb59.chunk.js",
+    "static/js/2.2549cb59.chunk.js.map": "/lorenitatl.github.io/sliders/static/js/2.2549cb59.chunk.js.map",
     "index.html": "/lorenitatl.github.io/sliders/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/lorenitatl.github.io/sliders/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.f255881a.chunk.js.LICENSE.txt": "/lorenitatl.github.io/sliders/static/js/2.f255881a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/lorenitatl.github.io/sliders/static/media/logo.6ce24c58.svg"
+    "static/css/main.6dea0f05.chunk.css.map": "/lorenitatl.github.io/sliders/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.2549cb59.chunk.js.LICENSE.txt": "/lorenitatl.github.io/sliders/static/js/2.2549cb59.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.591a6a60.js",
-    "static/js/2.f255881a.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.78c7e86c.chunk.js"
+    "static/js/runtime-main.ae3cd21f.js",
+    "static/js/2.2549cb59.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8b2fda0a.chunk.js"
   ]
 }
